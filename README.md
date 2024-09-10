@@ -9,7 +9,7 @@ Lucas Roberto da Silva - 760929
 
 ### COMO EXECUTAR
     # Para testar manualmente
-    $ java -jar target\t1_compiladores-1.0-SNAPSHOT-jar-with-dependencies.jar" casos-de-teste\2.casos_teste_t2\entrada\1-algoritmo_2-2_apostila_LA_1_erro_linha_3_acusado_linha_10.txt" "saida.txt"
+    $ java -jar target\t1_compiladores-1.0-SNAPSHOT-jar-with-dependencies.jar" "casos-de-teste\1.casos_teste_t1\entrada\1-algoritmo_2-2_apostila_LA.txt" "saida.txt"
 
     # Verifique a saída no arquivo saida.txt criado na pasta alguma-lexico
 
